@@ -16,7 +16,7 @@ This project transforms raw transactional data into a unified relational databas
 
 ⚡ 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐐𝐮𝐞𝐫𝐢𝐞𝐬: Ranking top 3 pizzas within each category based on revenue contribution.
 
-🛠️ 𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝 𝐌𝐲𝐒𝐿𝐋 / 𝐒𝐿𝐋 𝐒𝐞𝐫𝐯𝐞𝐫 for database management and querying.
+🛠️ 𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝 𝐌𝐲𝐒Q𝐋 / 𝐒Q𝐋 𝐒𝐞𝐫𝐯𝐞𝐫 for database management and querying.
 
 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐒𝐜𝐡𝐞𝐦𝐚 𝐃𝐞𝐬𝐢𝐠𝐧 for interconnected tables (Orders, Pizzas, Pizza Types).
 
